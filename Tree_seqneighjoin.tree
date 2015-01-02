@@ -1,0 +1,112 @@
+(
+(
+(
+silva|AY362360|1|1510| Desulfovibrio vulgaris:0.11489,
+silva|AE017180|1224149|1225696| Geobacter sulfurreducens PCA:0.088134)
+Branch 21:0.014694,
+(
+(
+silva|AANK01000003|466|1969| Campylobacter jejuni subsp. jejuni 260.94:0.086467,
+(
+silva|U07573|1|1470| Helicobacter hepaticus:0.03937,
+silva|AY062899|1|1492| Helicobacter pylori:0.047087)
+Branch 1:0.031241)
+Branch 6:0.07061,
+(
+silva|AF084850|1|1436| Bdellovibrio bacteriovorus:0.1348,
+(
+(
+silva|AE005673|2840172|2841610| Caulobacter crescentus CB15:0.081702,
+(
+silva|AF208508|1|1472| Bradyrhizobium japonicum:0.073761,
+(
+silva|AY513527|1|1412| Brucella melitensis:0.055371,
+(
+silva|BX897699|1583137|1584628| Bartonella henselae:0.017527,
+silva|AJ250247|1|1455| Bartonella quintana:0.022363)
+Branch 4:0.017494)
+Branch 5:0.028061)
+Branch 7:0.0020982)
+Branch 8:0.02395,
+(
+silva|AY026912|1|1458| Wolbachia pipientis:0.105,
+(
+silva|U12460|1|1436| Rickettsia conorii:0.038621,
+silva|AJ235272|177323|178829| Rickettsia prowazekii:0.026502)
+Branch 2:0.066247)
+Branch 9:0.013852)
+Branch 12:0.018143)
+Branch 19:0.011133)
+Branch 22:0.010313)
+Branch 23:0.0023177,
+(
+(
+(
+silva|AL646052|3277704|3279237| Ralstonia solanacearum:0.046091,
+(
+silva|BX640428|97283|98814| Bordetella parapertussis:0.00051744,
+silva|BX640417|66117|67648| Bordetella pertussis:0.0014433)
+Branch 3:0.048796)
+Branch 10:0.026198,
+(
+silva|EU693450|1|1505| Chromobacterium violaceum:0.056669,
+silva|AF310340|1|1471| Neisseria meningitidis:0.075731)
+Branch 13:0.017793)
+Branch 20:0.034205,
+(
+(
+silva|EU071537|1|1509| uncultured Acinetobacter sp.:0.092872,
+silva|AY342037|1|1457| Coxiella burnetii:0.11306)
+Branch 33:0.0044365,
+(
+(
+(
+silva|AY613472|1|1538| Haemophilus influenzae:0.080554,
+(
+(
+silva|M27039|1|1547| Buchnera aphidicola:0.069662,
+silva|BA000021|136582|138132| Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis:0.066505)
+Branch 24:0.020559,
+(
+(
+silva|AB045730|1|1534| Escherichia coli:0.018362,
+(
+silva|U90316|1|1541| Salmonella typhimurium:0.011018,
+silva|EF643609|1|1542| Shigella flexneri:0.0080284)
+Branch 16:0.0072532)
+Branch 17:0.026269,
+(
+silva|D78004|1|1483| Photorhabdus luminescens:0.051407,
+silva|AJ232231|1|1477| Yersinia pestis:0.035988)
+Branch 18:0.025884)
+Branch 25:0.0092879)
+Branch 26:0.0046003)
+Branch 29:0.0087346,
+(
+(
+silva|CR378665|83603|85179| Photobacterium profundum:0.07156,
+silva|AE014299|2973049|2974577| Shewanella oneidensis MR-1:0.05018)
+Branch 27:0.0085899,
+(
+silva|EU918692|1|1499| Pasteurella multocida:0.058201,
+silva|AY513500|1|1491| Vibrio cholerae:0.065703)
+Branch 28:0.006453)
+Branch 30:0.0051252)
+Branch 31:0.025367,
+(
+(
+silva|AF442743|1|2165| Xanthomonas axonopodis pv. citri:0.3843,
+silva|AE003849|172274|173818| Xylella fastidiosa 9a5c:0.032371)
+Branch 11:0.052194,
+(
+silva|X06684|1|1537| Pseudomonas aeruginosa:0.041494,
+(
+silva|EU620069|1|1570| Pseudomonas putida:0.053811,
+silva|AY574913|1|1531| Pseudomonas syringae:0.015637)
+Branch 14:0.0085061)
+Branch 15:0.037209)
+Branch 32:0.0065863)
+Branch 34:0.0027089)
+Branch 36:0.0003669)
+Branch 35:0.026117)
+Root;
