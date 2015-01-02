@@ -31,6 +31,7 @@ Function rRnaAlign aligns multiple rRNA Sequences
     Output: Multiple Sequence Alignment
 
 You can call the function in Matlab by:
+
 *rRnaAlign('path_to_directory')*
 
 
@@ -43,6 +44,7 @@ Function rRnaDist computes the pairwise distances of sequences
     Output: Pairwise distances of sequences, phylogenetic tree
 
 You can call the function in Matlab by:
+
 *rRnaDist('path_to_directory')*
 
 Sankoff.m
@@ -53,6 +55,7 @@ Function Sankoff that performs Sankoff's algorithm on two phylogenetic nodes
     Output: The parsimony values for each nucleotide at the node 
 
 You can call the function in Matlab by:
+
 *Sankoff(left_node_of_tree_branch, right_node_of_tree_branch)*
 
 treeParse.m
@@ -63,6 +66,7 @@ Function treeParse that performs Sankoff's algorithm on a phylogenetic tree.
     Output: the parsimony score of the input tree, the sequence alignment of each internal node/branch
 
 You can call the function in Matlab by:
+
 *treeParse(phylogenetic_tree)*
 
 toys.m (Problem 3)
