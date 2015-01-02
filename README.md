@@ -2,22 +2,22 @@ Sankoff's Algorithm
 ===================
 
 Matlab files in this directory:
-rRnaAlign.m
-rRnaDist.m
-Sankoff.m
-treeParse.m
-toys.m
+- rRnaAlign.m
+- rRnaDist.m
+- Sankoff.m
+- treeParse.m
+- toys.m
 
 Extra files in this directory
-multialign_results.txt
-pairwise_distances.txt
-parsimony_results.txt
-tree.jpg
-tree_nodes.jpg
-Toy1.pdf
-Toy2.pdf
-Toy3.pdf
-README.txt
+- multialign_results.txt
+- pairwise_distances.txt
+- parsimony_results.txt
+- tree.jpg
+- tree_nodes.jpg
+- Toy1.pdf
+- Toy2.pdf
+- Toy3.pdf
+- README.md
 
 Matlab files
 -------------
