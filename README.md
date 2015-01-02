@@ -26,6 +26,7 @@ Note: for rRnaAlign and rRnaDist the fasta sequences are assumed to be in a dire
 rRnaAlign.m
 -----------------------
 Function rRnaAlign aligns multiple rRNA Sequences
+
      Input: File Directory containing fasta files
     Output: Multiple Sequence Alignment
 
@@ -47,8 +48,9 @@ You can call the function in Matlab by:
 Sankoff.m
 ----------------------
 Function Sankoff that performs Sankoff's algorithm on two phylogenetic nodes
-         Input: Left and right node of a branch
-        Output: The parsimony values for each nucleotide at the node 
+
+     Input: Left and right node of a branch
+    Output: The parsimony values for each nucleotide at the node 
 
 You can call the function in Matlab by:
 *Sankoff(left_node_of_tree_branch, right_node_of_tree_branch)*
@@ -56,6 +58,7 @@ You can call the function in Matlab by:
 treeParse.m
 -------------------------
 Function treeParse that performs Sankoff's algorithm on a phylogenetic tree.
+
      Input: phylogenetic tree, multiple sequence alignment
     Output: the parsimony score of the input tree, the sequence alignment of each internal node/branch
 
@@ -74,10 +77,18 @@ Not meant to be called in Matlab. Instead highlight each individual toy example,
 Results
 --------
 multialign_results.txt: The output result of rRnaAlign - a multiple sequence alignment.
+
 pairwise_distances.txt: An output result of rRnaDist - the pairwise distances of all the input sequences.
+
 parsimony_results.txt:  An output result of treeParse - the parsimony score of the input tree and the sequence alignment of each internal node/branch.
+
 tree.jpg:        An output result of rRnaDist - the phylogenetic tree of all the input sequences (with branch labels).
+
 tree_nodes.jpg:  An output result of rRnaDist - the phylogenetic tree of all the input sequences (with branch and leaf node labels).
+
 Toy1.pdf: pdf file of the figure generated in Matlab by running Toy example 1, from pg 82, with Sankoff.m
+
 Toy2.pdf: pdf file of the figure generated in Matlab by running Toy example 2, from pg 90, with Sankoff.m
+
 Toy3.pdf: pdf file of the figure generated in Matlab by running Toy example 3, from pg 83, with Sankoff.m
+
