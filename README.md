@@ -1,6 +1,5 @@
-Created by: 
-Paul Lanctot
-lanct020
+Sankoff's Algorithm
+===================
 
 Matlab files in this directory:
 rRnaAlign.m
@@ -22,21 +21,19 @@ README.txt
 
 Matlab files
 -------------
-Note: for Problems 1 & 2, the fasta sequences are assumed to be in a directory named 'sequences'.
------------
+Note: for rRnaAlign and rRnaDist the fasta sequences are assumed to be in a directory named 'sequences'.
 
--------------------------
-rRnaAlign.m (Problem 1)
+rRnaAlign.m
 -----------------------
 Function rRnaAlign aligns multiple rRNA Sequences
      Input: File Directory containing fasta files
     Output: Multiple Sequence Alignment
 
 You can call the function in Matlab by:
-rRnaAlign('path_to_directory')
+*rRnaAlign('path_to_directory')*
 
--------------------------
-rRnaDist.m (Problem 2)
+
+rRnaDist.m
 -----------------------
 Function rRnaDist computes the pairwise distances of sequences 
  with function seqpdist and applies seqneighjoin to infer a phenological tree
@@ -45,30 +42,26 @@ Function rRnaDist computes the pairwise distances of sequences
     Output: Pairwise distances of sequences, phylogenetic tree
 
 You can call the function in Matlab by:
-rRnaDist('path_to_directory')
+*rRnaDist('path_to_directory')*
 
------------------------
-Sankoff.m (Problem 3)
+Sankoff.m
 ----------------------
 Function Sankoff that performs Sankoff's algorithm on two phylogenetic nodes
          Input: Left and right node of a branch
         Output: The parsimony values for each nucleotide at the node 
 
 You can call the function in Matlab by:
-Sankoff(left_node_of_tree_branch, right_node_of_tree_branch)
+*Sankoff(left_node_of_tree_branch, right_node_of_tree_branch)*
 
-
---------------------------
-treeParse.m (Problem 4)
+treeParse.m
 -------------------------
 Function treeParse that performs Sankoff's algorithm on a phylogenetic tree.
      Input: phylogenetic tree, multiple sequence alignment
     Output: the parsimony score of the input tree, the sequence alignment of each internal node/branch
 
 You can call the function in Matlab by:
-treeParse(phylogenetic_tree)
+*treeParse(phylogenetic_tree)*
 
---------------------
 toys.m (Problem 3)
 -------------------
 Initialization and testing of three toy examples (taken from the slides, pgs 82, 90, 83, respectively), for use with Sankoff.m.
